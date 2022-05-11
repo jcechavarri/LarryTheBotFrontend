@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LarryTheBotFrontend/static/css/main.073c9b0a.css",
+    "main.js": "/LarryTheBotFrontend/static/js/main.2e3ffcff.js",
+    "static/js/787.cda612ba.chunk.js": "/LarryTheBotFrontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/LarryTheBotFrontend/index.html",
+    "static/media/index.cjs": "/LarryTheBotFrontend/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.073c9b0a.css.map": "/LarryTheBotFrontend/static/css/main.073c9b0a.css.map",
+    "main.2e3ffcff.js.map": "/LarryTheBotFrontend/static/js/main.2e3ffcff.js.map",
+    "787.cda612ba.chunk.js.map": "/LarryTheBotFrontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e3ffcff.js"
+  ]
+}
